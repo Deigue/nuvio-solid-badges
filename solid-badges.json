@@ -1244,12 +1244,12 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‍‌‌‍‌⁤)",
       "imageURL": "https://github.com/Deigue/nuvio-solid-badges/blob/master/images/encoder/divx.png?raw=true",
       "tagColor": "#E64141",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
-    {
+{
       "id": "gs-peacock",
       "name": "PEACOCK",
       "groupId": "gs",
